@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rydud\\Documents\\Spring 2025\\COP4870\\test\\TestConsoleApp\\MyApp\\MyApp.csproj": {}
+    "C:\\Users\\rydud\\OneDrive\\Documents\\School Stuff\\FSU\\spring 2025\\COP4870\\eCommerce\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rydud\\Documents\\Spring 2025\\COP4870\\test\\TestConsoleApp\\MyApp\\MyApp.csproj": {
+    "C:\\Users\\rydud\\OneDrive\\Documents\\School Stuff\\FSU\\spring 2025\\COP4870\\eCommerce\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rydud\\Documents\\Spring 2025\\COP4870\\test\\TestConsoleApp\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\rydud\\OneDrive\\Documents\\School Stuff\\FSU\\spring 2025\\COP4870\\eCommerce\\MyApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "C:\\Users\\rydud\\Documents\\Spring 2025\\COP4870\\test\\TestConsoleApp\\MyApp\\MyApp.csproj",
+        "projectPath": "C:\\Users\\rydud\\OneDrive\\Documents\\School Stuff\\FSU\\spring 2025\\COP4870\\eCommerce\\MyApp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\rydud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rydud\\Documents\\Spring 2025\\COP4870\\test\\TestConsoleApp\\MyApp\\obj\\",
+        "outputPath": "C:\\Users\\rydud\\OneDrive\\Documents\\School Stuff\\FSU\\spring 2025\\COP4870\\eCommerce\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rydud\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rydud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

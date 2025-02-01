@@ -12,8 +12,10 @@ When a user wants to quit the program, they should check out, which should prese
 
 */
 
-using System;
+using Library.eCommerce.Services;
 using Spring2025_Samples.Models;
+using System;
+using System.Xml.Serialization;
 
 namespace MyApp
 {
@@ -43,9 +45,8 @@ namespace MyApp
                     case 'C':
                         //var name = Console.ReadLine();
                         // var prod = new Product { Name = name, Id = -1 };
-                        list.Add(new Product // Add is a method of the List<T> class,  It is used to add an item to the end of the List<T> collection
+                        ProductServiceProxy.Current.Add(new Product
                         {
-                            Id = lastKey++,
                             Name = Console.ReadLine()
                         });
                         break;
@@ -67,9 +68,10 @@ namespace MyApp
                         selectedProd = list.FirstOrDefault(p => p.Id == selection); 
                         list.Remove(selectedProd);
                         break;
-                    default:
+                    
                     case 'Q':
                     break;
+                    default:
                         Console.WriteLine("Error: Unknown Command");
                         break;
                 }
