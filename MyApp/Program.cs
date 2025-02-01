@@ -29,7 +29,7 @@ namespace MyApp
             Console.WriteLine("[U]pdate the product details in the inventory (or the number of items in the shopping cart)");
             Console.WriteLine("[D]elete the product from the inventory or return all of a product from the shopping cart to the inventory");
             Console.WriteLine("[Q]uit");
-            List<Spring2025_Samples.Models.Product> list = new List<Product>();
+            List<Spring2025_Samples.Models.Product> list = ProductServiceProxy.Current.Products; // must use public getter to access
             //char choice = Console.ReadLine()[0];
             char choice;
             do
