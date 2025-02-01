@@ -1,0 +1,14 @@
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\bin\Debug\net9.0\TestConsoleApp.exe
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\bin\Debug\net9.0\TestConsoleApp.deps.json
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\bin\Debug\net9.0\TestConsoleApp.runtimeconfig.json
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\bin\Debug\net9.0\TestConsoleApp.dll
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\bin\Debug\net9.0\TestConsoleApp.pdb
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.AssemblyInfo.cs
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.dll
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\obj\Debug\net9.0\refint\TestConsoleApp.dll
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.pdb
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\obj\Debug\net9.0\TestConsoleApp.genruntimeconfig.cache
+C:\Users\rydud\Documents\Spring 2025\COP4870\test\TestConsoleApp\obj\Debug\net9.0\ref\TestConsoleApp.dll
