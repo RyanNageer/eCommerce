@@ -37,5 +37,10 @@ namespace Library.eCommerce.Services
                 return list;
             }
         }
+
+        public void Add(Product product)
+        {
+            list.Add(product);
+        }
     }
 }
